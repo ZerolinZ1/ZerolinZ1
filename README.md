@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZerolinZ1
 - 👀 I’m interested in Gaming, chess, manga, anime, archery, and coding!
-- 🌱 I’m currently learning Python at RIT
+- 🌱 I’m currently a 3rd year comp sci student at RIT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Tyriznewton@gmail.com
 - 😄 Pronouns: He/him
